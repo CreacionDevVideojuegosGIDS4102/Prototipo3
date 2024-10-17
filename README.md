@@ -8,13 +8,8 @@
 
 ----
 
-</details><details> <summary>01.01-Prototipo 2/</summary>
+</details><details> <summary>01.03-Prototipo 3/</summary>
 
-### [PDF Prototipo 2](https://drive.google.com/file/d/1nEigo5aCLh04ajWBqszw0C3y-rcvd9XB/view?usp=sharing)
-
+### [PDF Prototipo 3][Prototipo3-Palacios Rangel Maria Fernanda.pdf](https://github.com/user-attachments/files/17424304/Prototipo3-Palacios.Rangel.Maria.Fernanda.pdf)
 
 ----
-
-## CAPTURAS PROTOTIPO 3 PDF
-
-[Prototipo3-Palacios Rangel Maria Fernanda.pdf](https://github.com/user-attachments/files/17424304/Prototipo3-Palacios.Rangel.Maria.Fernanda.pdf)
