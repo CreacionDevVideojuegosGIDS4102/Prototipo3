@@ -8,7 +8,7 @@
 
 ----
 
-</details><details> <summary>01.03-Prototipo 3/</summary>
+</details><details> <summary>01.03-Prototipo 3</summary>
 
 ### [PDF Prototipo 3][Prototipo3-Palacios Rangel Maria Fernanda.pdf](https://github.com/user-attachments/files/17424304/Prototipo3-Palacios.Rangel.Maria.Fernanda.pdf)
 
